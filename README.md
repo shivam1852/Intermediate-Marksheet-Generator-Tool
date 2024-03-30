@@ -12,4 +12,4 @@ Intermediate Marksheet Generator Tool is a Python-based project used to generate
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/intermediate-marksheet-generator.git
+   git clone https://github.com/shivam1852/Intermediate-Marksheet-Generator-Tool.git
